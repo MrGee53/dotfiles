@@ -3,6 +3,9 @@ syntax on
 set tabstop=4
 set encoding=utf-8
 
+" Set colorscheme
+colorscheme darkblue
+
 " Make it so I can use backspace from insert
 set backspace=indent,eol,start
 
